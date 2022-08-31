@@ -26,3 +26,4 @@ def func(words: List[str]) -> List[str]:
 
 if __name__ == "__main__":
     print(func(["Hello", "Alaska", "Dad", "Peace"]))
+    # output : ["Alaska", "Dad"]
